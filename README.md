@@ -14,4 +14,4 @@
 
 _С уважением, Валентина._
 
-![Screenshot](https://github.com/LapValya43/The_story_about_me_in_three_words/blob/main/cat.jpg)
+![Image cat](https://github.com/LapValya43/The_story_about_me_in_three_words/blob/main/cat.png)
