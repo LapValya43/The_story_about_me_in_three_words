@@ -14,4 +14,4 @@
 
 _С уважением, Валентина._
 
-![Image cat](https://ru.pinterest.com/pin/749849406727716612/)
+![Image cat](https://i.pinimg.com/564x/b9/f3/eb/b9f3eb176831bf046e784f3ab4647564.jpg)
